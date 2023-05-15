@@ -6,7 +6,7 @@ I've always enjoyed working with data and have always been fascinated by what ca
 <table>
 <tr>
 <td align="center"><a href="https://stepik.org/cert/1523878"><img src="./diplomas/stepik-certificate-58852-c33dab6-1.png" width="90%"/></a></td>
-<td align="center"><a href="https://stepik.org/cert/1586561"><img src="./certiificates/AlexeyBor - Intro to Machine Learning.png" width="90%"/></a></td>
+<td align="center"><a href="https://stepik.org/cert/1586561"><img src="./diplomas/stepik-certificate-68343-ea331b7-1.png" width="90%"/></a></td>
 </tr>
 <tr>
 
