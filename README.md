@@ -13,5 +13,5 @@ I have always enjoyed working with data and have been fascinated by what can be 
 </tr>
 <tr>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/margovegano/intro-to-machine-learning"><img src="./diplomas/Margarita Khaishbasheva - Intro to Machine Learning.png"  width="90%"/></a></td>
-<td align="center"><a href="https://stepik.org/cert/1518712"><img src="./certiificates/sql.png"  width="90%"/></a></td>
+<td align="center"><a href="https://www.kaggle.com/learn/certification/margovegano/intermediate-machine-learning"><img src="./diplomas/Margarita Khaishbasheva - Intermediate Machine Learning.png"  width="90%"/></a></td>
 </tr>
