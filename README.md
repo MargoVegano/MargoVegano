@@ -10,4 +10,8 @@ I have always enjoyed working with data and have been fascinated by what can be 
 <td align="center"><a href="https://stepik.org/cert/1586561"><img src="./diplomas/stepik-certificate-68343-ea331b7-1.png" width="90%"/></a></td>
 </tr>
 <tr>
-
+</tr>
+<tr>
+<td align="center"><a href="https://stepik.org/cert/1599206"><img src="./diplomas/Margarita Khaishbasheva - .png"  width="90%"/></a></td>
+<td align="center"><a href="https://stepik.org/cert/1518712"><img src="./certiificates/sql.png"  width="90%"/></a></td>
+</tr>
