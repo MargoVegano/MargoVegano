@@ -15,3 +15,6 @@ I have always enjoyed working with data and have been fascinated by what can be 
 <td align="center"><a href="https://www.kaggle.com/learn/certification/margovegano/intro-to-machine-learning"><img src="./diplomas/Margarita Khaishbasheva - Intro to Machine Learning.png"  width="90%"/></a></td>
 <td align="center"><a href="https://www.kaggle.com/learn/certification/margovegano/intermediate-machine-learning"><img src="./diplomas/Margarita Khaishbasheva - Intermediate Machine Learning.png"  width="90%"/></a></td>
 </tr>
+<tr>
+<td align="center"><a href="https://drive.google.com/file/d/1_afBA3AvOjV0tUle7qwbtr8-RQZeMR4S/view?usp=drive_link"><img src="./diplomas/  Khaishbasheva Margarita_20232ЦПДС00467.pdf"  width="90%"/></a></td>
+
