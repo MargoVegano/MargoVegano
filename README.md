@@ -21,4 +21,4 @@ I have always enjoyed working with data and have been fascinated by what can be 
 <td align="center"><a href="https://drive.google.com/file/d/1pWneFFFSKXFY2gQiha9UFy9I3kHBpggp/view?usp=sharing"><img src="./diplomas/Yandex.Practicum - Data Science Specialist - 2.png"  width="90%"/></a></td>
 
 <tr>
-<td align="center"><a href="https://stepik.org/cert/2114530"><img src="./diplomas/stepik-certificate-76-f24c0cc.pdf"  width="90%"/></a></td>
+<td align="center"><a href="https://stepik.org/cert/2114530"><img src="./diplomas/"  width="90%"/></a></td>
