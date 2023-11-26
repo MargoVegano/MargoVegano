@@ -22,3 +22,4 @@ I have always enjoyed working with data and have been fascinated by what can be 
 
 <tr>
 <td align="center"><a href="https://stepik.org/cert/2114530"><img src="./diplomas/stepik-certificate-76-f24c0cc.png"  width="90%"/></a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1pWneFFFSKXFY2gQiha9UFy9I3kHBpggp/view?usp=sharing"><img src="./diplomas/stepik-certificate-185674-d8309f5-1.png"  width="90%"/></a></td>
